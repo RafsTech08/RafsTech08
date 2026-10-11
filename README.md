@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ABOUT ME:
-I am 17 year old college student majoring in computer science and other tech related courses. I love a good challenge and thinking outside the box. I love art and video games aswell.
+I am 18 year old college student majoring in computer science and other tech related courses. I love a good challenge and thinking outside the box. I love art and video games aswell.
 
 TOOLS:
 I use CLion as my primary tool for coding, however I am willing to try other programs if need be
